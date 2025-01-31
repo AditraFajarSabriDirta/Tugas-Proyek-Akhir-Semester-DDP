@@ -144,7 +144,7 @@ void simpanStrukKeFile(Menu makanan[], int pesananMakanan[], int jumlahMakanan,
   
    file<< right;
    file<< setw(25)<<"Total Pembayaran: "
-       <<"|          | Rp."
+       <<"|       | Rp."
        <<totalBayar
        <<" \n";
 
