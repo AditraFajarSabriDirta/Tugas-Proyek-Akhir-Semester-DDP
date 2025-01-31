@@ -77,7 +77,7 @@ void tampilkanStruk(Menu makanan[], int pesananMakanan[], int jumlahMakanan, //A
     
     cout << right;
     cout << setw(25)  <<"Total Pembayaran: "
-         <<"|          | Rp." 
+         <<"|       | Rp." 
          << totalBayar 
          <<" \n";
 
